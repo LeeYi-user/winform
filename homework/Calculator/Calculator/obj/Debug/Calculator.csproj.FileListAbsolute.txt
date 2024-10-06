@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator\Calculator\bin\Debug\計算機.exe.config
+C:\Users\USER\source\repos\Calculator\Calculator\bin\Debug\計算機.exe
+C:\Users\USER\source\repos\Calculator\Calculator\bin\Debug\計算機.pdb
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\計算機.exe
+C:\Users\USER\source\repos\Calculator\Calculator\obj\Debug\計算機.pdb

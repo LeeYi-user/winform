@@ -1,0 +1,10 @@
+C:\Users\E321-30\Desktop\mid5\mid5\bin\Debug\mid5.exe.config
+C:\Users\E321-30\Desktop\mid5\mid5\bin\Debug\mid5.exe
+C:\Users\E321-30\Desktop\mid5\mid5\bin\Debug\mid5.pdb
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.csproj.AssemblyReference.cache
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.Form1.resources
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.Properties.Resources.resources
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.csproj.GenerateResource.cache
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.csproj.CoreCompileInputs.cache
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.exe
+C:\Users\E321-30\Desktop\mid5\mid5\obj\Debug\mid5.pdb

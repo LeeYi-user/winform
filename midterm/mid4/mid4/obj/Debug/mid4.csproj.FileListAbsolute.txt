@@ -1,0 +1,10 @@
+C:\Users\E321-30\Desktop\mid4\mid4\bin\Debug\mid4.exe.config
+C:\Users\E321-30\Desktop\mid4\mid4\bin\Debug\mid4.exe
+C:\Users\E321-30\Desktop\mid4\mid4\bin\Debug\mid4.pdb
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.csproj.AssemblyReference.cache
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.Form1.resources
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.Properties.Resources.resources
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.csproj.GenerateResource.cache
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.csproj.CoreCompileInputs.cache
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.exe
+C:\Users\E321-30\Desktop\mid4\mid4\obj\Debug\mid4.pdb

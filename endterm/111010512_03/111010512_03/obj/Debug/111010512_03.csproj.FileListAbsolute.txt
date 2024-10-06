@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\bin\Debug\111010512_03.exe.config
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\bin\Debug\111010512_03.exe
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\bin\Debug\111010512_03.pdb
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\_111010512_03.Form1.resources
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\_111010512_03.Properties.Resources.resources
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.csproj.GenerateResource.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.exe
+C:\Users\USER\Documents\School\大一下\程式設計進階\期末考\111010512_03\111010512_03\obj\Debug\111010512_03.pdb

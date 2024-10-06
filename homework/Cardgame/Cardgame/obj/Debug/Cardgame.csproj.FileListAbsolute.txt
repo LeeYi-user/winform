@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\bin\Debug\Cardgame.exe.config
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\bin\Debug\Cardgame.exe
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\bin\Debug\Cardgame.pdb
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.Form1.resources
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.Properties.Resources.resources
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.GenerateResource.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.exe
+C:\Users\USER\Documents\School\大一下\程式設計進階\課程作業\Cardgame\Cardgame\obj\Debug\Cardgame.pdb
